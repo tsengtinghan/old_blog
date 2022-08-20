@@ -3190,6 +3190,7 @@ input, select, textarea {
 				.poptrox-popup .nav-next:before,
 				.poptrox-popup .nav-previous:before {
 					margin-top: -1em;
+					display: none;
 				}
 
 	}
