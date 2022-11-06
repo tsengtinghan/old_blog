@@ -1,1 +1,1 @@
-### 嗨囉! 這是我陽春的網站，之後想用next.js + chakra ui 重作一個，敬請期待哈哈哈~
+我不會用jekyll + github pages...好想換blog
